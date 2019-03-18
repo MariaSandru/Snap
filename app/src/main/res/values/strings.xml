@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Snapanonym</string>
+    <string name="main_background">main background</string>
+    <string name="explore_button_label">EXPLORE</string>
+    <string name="app_title">Snap Anonyme</string>
+    <string name="explore_snaps">explore snaps</string>
+    <string name="publish_a_snap">publish a snap</string>
+    <string name="publish_button_label">PUBLISH</string>
+    <string name="title_activity_snap_list">SnapListActivity</string>
+    <string name="test_test">test</string>
+    <string name="report_this_snap_button_text">raport_this_snap_button_text</string>
+    <string name="snap_info_sample">snap_info-simple</string>
 </resources>
