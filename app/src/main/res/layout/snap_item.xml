@@ -30,8 +30,7 @@ android:layout_height="wrap_content">
     android:clickable="true"
     android:contentDescription="@string/report_this_snap_button_text"
     android:focusable="true"
-
-    android:padding="@dimen/app_default_padding"
+    android:padding="@dimen/padding_10"
     android:src="@drawable/action_report" />
 
 <TextView
@@ -64,8 +63,8 @@ android:layout_height="wrap_content">
         android:layout_height="wrap_content"
         android:layout_weight="1"
         app:fontFamily="@font/rocko"
-        android:drawableTop="@drawable/action_test"
-        android:text="@string/snap_action_comment_info_sample" />
+        android:drawableTop="@drawable/action_forum"
+        android:text="@string/snap_action_comment" />
 
     <Button
         android:id="@+id/snap_action_love"
@@ -75,7 +74,7 @@ android:layout_height="wrap_content">
         android:layout_weight="1"
         android:drawableTop="@drawable/action_love"
         app:fontFamily="@font/rocko"
-        android:text="@string/snap_action_comment_info_sample" />
+        android:text="@string/snap_action_love" />
 
     <Button
         android:id="@+id/snap_action_like"
@@ -85,7 +84,7 @@ android:layout_height="wrap_content">
         android:layout_weight="1"
         android:drawableTop="@drawable/action_like"
         app:fontFamily="@font/rocko"
-        android:text="@string/snap_action_comment_info_sample" />
+        android:text="@string/snap_action_like" />
 
     <Button
         android:id="@+id/snap_action_dislike"
@@ -95,7 +94,7 @@ android:layout_height="wrap_content">
         android:layout_weight="1"
         android:drawableTop="@drawable/action_dislike"
         app:fontFamily="@font/rocko"
-        android:text="@string/snap_action_comment_info_sample" />
+        android:text="@string/snap_action_dislike" />
 
 
 </LinearLayout>

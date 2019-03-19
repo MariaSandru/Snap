@@ -10,4 +10,9 @@
     <string name="test_test">test</string>
     <string name="report_this_snap_button_text">raport_this_snap_button_text</string>
     <string name="snap_info_sample">snap_info-simple</string>
+    <string name="snap_action_comment">30K</string>
+    <string name="snap_action_love">50k</string>
+    <string name="snap_action_like">40k</string>
+    <string name="snap_action_dislike">45k</string>
+    <string name="m_away">,hjgzd</string>
 </resources>
